@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T03:11:31.439Z",
+  "updated": "2026-11-18T20:06:37.847Z",
   "files": [
     {
       "path": "config/fancymenu/assets/fondo.png",
@@ -27,6 +27,16 @@
       "sha1": "a909e70202602781cac6e41c01804e1aba5eebd2"
     },
     {
+      "path": "config/fancymenu/assets/proyectados_fondo.png",
+      "url": "https://raw.githubusercontent.com/panizprivate12-source/extremo-launcher1233/main/pack/config/fancymenu/assets/proyectados_fondo.png",
+      "sha1": "551de15fd50226fb4a5288313134fc50d3149889"
+    },
+    {
+      "path": "config/fancymenu/assets/proyectados_logo_original.png",
+      "url": "https://raw.githubusercontent.com/panizprivate12-source/extremo-launcher1233/main/pack/config/fancymenu/assets/proyectados_logo_original.png",
+      "sha1": "ba7d4c96ff119dc60037bf6b96c1dfa1e4e2655b"
+    },
+    {
       "path": "config/fancymenu/assets/salir-hover.png",
       "url": "https://raw.githubusercontent.com/panizprivate12-source/extremo-launcher1233/main/pack/config/fancymenu/assets/salir-hover.png",
       "sha1": "78315e8701503e2fa857bce16ef067e1f9e5faf4"
@@ -35,6 +45,156 @@
       "path": "config/fancymenu/assets/salir.png",
       "url": "https://raw.githubusercontent.com/panizprivate12-source/extremo-launcher1233/main/pack/config/fancymenu/assets/salir.png",
       "sha1": "9d1231c423c57f27f063ab0aee655e30dc7e4745"
+    },
+    {
+      "path": "config/fancymenu/custom_gui_screens.txt",
+      "url": "https://raw.githubusercontent.com/panizprivate12-source/extremo-launcher1233/main/pack/config/fancymenu/custom_gui_screens.txt",
+      "sha1": "50b4602527a4e3cfea6016ec001f3b68ace1d65c"
+    },
+    {
+      "path": "config/fancymenu/customizablemenus.txt",
+      "url": "https://raw.githubusercontent.com/panizprivate12-source/extremo-launcher1233/main/pack/config/fancymenu/customizablemenus.txt",
+      "sha1": "e6ffb2badf3910d3152b706e0e369cc6f3a84c42"
+    },
+    {
+      "path": "config/fancymenu/customization/title_screen_layout.txt",
+      "url": "https://raw.githubusercontent.com/panizprivate12-source/extremo-launcher1233/main/pack/config/fancymenu/customization/title_screen_layout.txt",
+      "sha1": "989a6a620a0f5e9c41501d390f7c194cb71f7c61"
+    },
+    {
+      "path": "config/fancymenu/customization/universal_layout.txt",
+      "url": "https://raw.githubusercontent.com/panizprivate12-source/extremo-launcher1233/main/pack/config/fancymenu/customization/universal_layout.txt",
+      "sha1": "396ccac64be48e7845b492068db3e0cd571cbd34"
+    },
+    {
+      "path": "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
+      "url": "https://raw.githubusercontent.com/panizprivate12-source/extremo-launcher1233/main/pack/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
+      "sha1": "a87d9eee1c6d38726797d4e611b3ce976cade110"
+    },
+    {
+      "path": "config/fancymenu/legacy_checklist.txt",
+      "url": "https://raw.githubusercontent.com/panizprivate12-source/extremo-launcher1233/main/pack/config/fancymenu/legacy_checklist.txt",
+      "sha1": "f1569161a6ad24cc61b02dece317ea16e351ff1e"
+    },
+    {
+      "path": "config/fancymenu/options.txt",
+      "url": "https://raw.githubusercontent.com/panizprivate12-source/extremo-launcher1233/main/pack/config/fancymenu/options.txt",
+      "sha1": "109c60f808c4e6b8f9b1e9e19a3b5b8a92c1805e"
+    },
+    {
+      "path": "config/fancymenu/profile.json",
+      "url": "https://raw.githubusercontent.com/panizprivate12-source/extremo-launcher1233/main/pack/config/fancymenu/profile.json",
+      "sha1": "f19c2c490f0549defdedb32d18a6bde37f06f9a5"
+    },
+    {
+      "path": "config/fancymenu/ui_themes/cherry_blossom.json",
+      "url": "https://raw.githubusercontent.com/panizprivate12-source/extremo-launcher1233/main/pack/config/fancymenu/ui_themes/cherry_blossom.json",
+      "sha1": "9a453a566f041ddbc39e17918acdac90f6eaed38"
+    },
+    {
+      "path": "config/fancymenu/ui_themes/cozy_campfire.json",
+      "url": "https://raw.githubusercontent.com/panizprivate12-source/extremo-launcher1233/main/pack/config/fancymenu/ui_themes/cozy_campfire.json",
+      "sha1": "e7fbd4e11f3e969d20d7c713e61fa6d6cedd077e"
+    },
+    {
+      "path": "config/fancymenu/ui_themes/dark_high_contrast.json",
+      "url": "https://raw.githubusercontent.com/panizprivate12-source/extremo-launcher1233/main/pack/config/fancymenu/ui_themes/dark_high_contrast.json",
+      "sha1": "9583fa877b286337557aae3429f91d66682091b7"
+    },
+    {
+      "path": "config/fancymenu/ui_themes/dark.json",
+      "url": "https://raw.githubusercontent.com/panizprivate12-source/extremo-launcher1233/main/pack/config/fancymenu/ui_themes/dark.json",
+      "sha1": "b8793f498fc95000ab68a7d6b45d8575ad45d558"
+    },
+    {
+      "path": "config/fancymenu/ui_themes/light_high_contrast.json",
+      "url": "https://raw.githubusercontent.com/panizprivate12-source/extremo-launcher1233/main/pack/config/fancymenu/ui_themes/light_high_contrast.json",
+      "sha1": "8a290f6e1a0bdf2be972878e1c134a0c31f4a069"
+    },
+    {
+      "path": "config/fancymenu/ui_themes/light.json",
+      "url": "https://raw.githubusercontent.com/panizprivate12-source/extremo-launcher1233/main/pack/config/fancymenu/ui_themes/light.json",
+      "sha1": "5b9e9bc9d4d683584c919bcdae3b75581ae42f60"
+    },
+    {
+      "path": "config/fancymenu/ui_themes/pumpkin_soup.json",
+      "url": "https://raw.githubusercontent.com/panizprivate12-source/extremo-launcher1233/main/pack/config/fancymenu/ui_themes/pumpkin_soup.json",
+      "sha1": "39c96a61bdeb936b151e38d0050b70abb78e3620"
+    },
+    {
+      "path": "config/fancymenu/ui_themes/purple_void.json",
+      "url": "https://raw.githubusercontent.com/panizprivate12-source/extremo-launcher1233/main/pack/config/fancymenu/ui_themes/purple_void.json",
+      "sha1": "9e38ca299adfe6ab2ad331c6adb80e26ff823da8"
+    },
+    {
+      "path": "config/fancymenu/ui_themes/spooky_season.json",
+      "url": "https://raw.githubusercontent.com/panizprivate12-source/extremo-launcher1233/main/pack/config/fancymenu/ui_themes/spooky_season.json",
+      "sha1": "9fa05d2794bdec26dee5224075c98bd7da9c1a0d"
+    },
+    {
+      "path": "config/fancymenu/user_variables.db",
+      "url": "https://raw.githubusercontent.com/panizprivate12-source/extremo-launcher1233/main/pack/config/fancymenu/user_variables.db",
+      "sha1": "b41f9d7688944b0d96eaa089a5a5bb74af28d258"
+    },
+    {
+      "path": "mods/cpm-flashback-26.1-1.2.0.jar",
+      "url": "https://raw.githubusercontent.com/panizprivate12-source/extremo-launcher1233/main/pack/mods/cpm-flashback-26.1-1.2.0.jar",
+      "sha1": "aafebadd2c6e0b610533152b8a85e9ad4c69f23d"
+    },
+    {
+      "path": "mods/CustomPlayerModels-Fabric-26.2-0.6.27c.jar",
+      "url": "https://raw.githubusercontent.com/panizprivate12-source/extremo-launcher1233/main/pack/mods/CustomPlayerModels-Fabric-26.2-0.6.27c.jar",
+      "sha1": "bc2aabbc75f2350d2ca782637511ef9817972778"
+    },
+    {
+      "path": "mods/easyauth-mc26.2-3.5.1.jar",
+      "url": "https://github.com/panizprivate12-source/extremo-launcher1233/releases/download/mods/easyauth-mc26.2-3.5.1.jar",
+      "sha1": "66fa1d4e0dae707cb1b24c864863930405e7e9ea"
+    },
+    {
+      "path": "mods/extremo3-adapted-0.1.5-fix.jar",
+      "url": "https://github.com/panizprivate12-source/extremo-launcher1233/releases/download/mods/extremo3-adapted-0.1.5-fix.jar",
+      "sha1": "1354bb7bf2e3dc4e0b9d979db40f7d5fbf9c7ef6"
+    },
+    {
+      "path": "mods/fabric-api-0.161.0+26.2.jar",
+      "url": "https://raw.githubusercontent.com/panizprivate12-source/extremo-launcher1233/main/pack/mods/fabric-api-0.161.0%2B26.2.jar",
+      "sha1": "332da34ebb72171e603a0c538de17f4c54ea9e29"
+    },
+    {
+      "path": "mods/fancymenu_fabric_3.10.0_MC_26.2.jar",
+      "url": "https://github.com/panizprivate12-source/extremo-launcher1233/releases/download/mods/fancymenu_fabric_3.10.0_MC_26.2.jar",
+      "sha1": "7d6d757b88ab5c33cc5760c9db1c06b9170380f2"
+    },
+    {
+      "path": "mods/Flashback-0.43.6-for-MC26.2.jar",
+      "url": "https://github.com/panizprivate12-source/extremo-launcher1233/releases/download/mods/Flashback-0.43.6-for-MC26.2.jar",
+      "sha1": "5ac1873f4cd400a0347131c78f074391f9f94bed"
+    },
+    {
+      "path": "mods/geckolib-fabric-26.2-5.5.5.jar",
+      "url": "https://raw.githubusercontent.com/panizprivate12-source/extremo-launcher1233/main/pack/mods/geckolib-fabric-26.2-5.5.5.jar",
+      "sha1": "66bd0b658dadc9345d9b885641b4322e3686094c"
+    },
+    {
+      "path": "mods/jei-26.2-fabric-30.48.0.244.jar",
+      "url": "https://raw.githubusercontent.com/panizprivate12-source/extremo-launcher1233/main/pack/mods/jei-26.2-fabric-30.48.0.244.jar",
+      "sha1": "ab2c982647d1ac94770c235d10d6b10a4f98a3ed"
+    },
+    {
+      "path": "mods/konkrete_fabric_1.11.1_MC_26.2.jar",
+      "url": "https://raw.githubusercontent.com/panizprivate12-source/extremo-launcher1233/main/pack/mods/konkrete_fabric_1.11.1_MC_26.2.jar",
+      "sha1": "5f7e89dc14016ae63a504780a1d2c2f50d1c0c7e"
+    },
+    {
+      "path": "mods/melody_fabric_1.0.17_MC_26.2.jar",
+      "url": "https://raw.githubusercontent.com/panizprivate12-source/extremo-launcher1233/main/pack/mods/melody_fabric_1.0.17_MC_26.2.jar",
+      "sha1": "73a6216fcdae3928bd387a26a68318be9db83841"
+    },
+    {
+      "path": "mods/SkinsRestorer-Mod-Fabric-15.12.5.jar",
+      "url": "https://raw.githubusercontent.com/panizprivate12-source/extremo-launcher1233/main/pack/mods/SkinsRestorer-Mod-Fabric-15.12.5.jar",
+      "sha1": "6a1e9a6f76e0a29d25476bf043cdaca41ef5a89e"
     }
   ]
 }
