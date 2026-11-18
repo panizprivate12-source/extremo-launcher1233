@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T07:03:46.205996Z",
+  "updated": "2026-11-18T07:08:34.251Z",
   "files": [
     {
       "path": "config/fancymenu/assets/fondo.png",
@@ -37,24 +37,14 @@
       "sha1": "9d1231c423c57f27f063ab0aee655e30dc7e4745"
     },
     {
-      "path": "mods/CustomPlayerModels-Fabric-26.2-0.6.27c.jar",
-      "url": "https://raw.githubusercontent.com/panizprivate12-source/extremo-launcher1233/main/pack/mods/CustomPlayerModels-Fabric-26.2-0.6.27c.jar",
-      "sha1": "bc2aabbc75f2350d2ca782637511ef9817972778"
-    },
-    {
-      "path": "mods/Flashback-0.43.6-for-MC26.2.jar",
-      "url": "https://github.com/panizprivate12-source/extremo-launcher1233/releases/download/mods/Flashback-0.43.6-for-MC26.2.jar",
-      "sha1": "5ac1873f4cd400a0347131c78f074391f9f94bed"
-    },
-    {
-      "path": "mods/SkinsRestorer-Mod-Fabric-15.12.5.jar",
-      "url": "https://raw.githubusercontent.com/panizprivate12-source/extremo-launcher1233/main/pack/mods/SkinsRestorer-Mod-Fabric-15.12.5.jar",
-      "sha1": "6a1e9a6f76e0a29d25476bf043cdaca41ef5a89e"
-    },
-    {
       "path": "mods/cpm-flashback-26.1-1.2.0.jar",
       "url": "https://raw.githubusercontent.com/panizprivate12-source/extremo-launcher1233/main/pack/mods/cpm-flashback-26.1-1.2.0.jar",
       "sha1": "aafebadd2c6e0b610533152b8a85e9ad4c69f23d"
+    },
+    {
+      "path": "mods/CustomPlayerModels-Fabric-26.2-0.6.27c.jar",
+      "url": "https://raw.githubusercontent.com/panizprivate12-source/extremo-launcher1233/main/pack/mods/CustomPlayerModels-Fabric-26.2-0.6.27c.jar",
+      "sha1": "bc2aabbc75f2350d2ca782637511ef9817972778"
     },
     {
       "path": "mods/easyauth-mc26.2-3.5.1.jar",
@@ -77,6 +67,11 @@
       "sha1": "7d6d757b88ab5c33cc5760c9db1c06b9170380f2"
     },
     {
+      "path": "mods/Flashback-0.43.6-for-MC26.2.jar",
+      "url": "https://github.com/panizprivate12-source/extremo-launcher1233/releases/download/mods/Flashback-0.43.6-for-MC26.2.jar",
+      "sha1": "5ac1873f4cd400a0347131c78f074391f9f94bed"
+    },
+    {
       "path": "mods/geckolib-fabric-26.2-5.5.5.jar",
       "url": "https://raw.githubusercontent.com/panizprivate12-source/extremo-launcher1233/main/pack/mods/geckolib-fabric-26.2-5.5.5.jar",
       "sha1": "66bd0b658dadc9345d9b885641b4322e3686094c"
@@ -95,6 +90,11 @@
       "path": "mods/melody_fabric_1.0.17_MC_26.2.jar",
       "url": "https://raw.githubusercontent.com/panizprivate12-source/extremo-launcher1233/main/pack/mods/melody_fabric_1.0.17_MC_26.2.jar",
       "sha1": "73a6216fcdae3928bd387a26a68318be9db83841"
+    },
+    {
+      "path": "mods/SkinsRestorer-Mod-Fabric-15.12.5.jar",
+      "url": "https://raw.githubusercontent.com/panizprivate12-source/extremo-launcher1233/main/pack/mods/SkinsRestorer-Mod-Fabric-15.12.5.jar",
+      "sha1": "6a1e9a6f76e0a29d25476bf043cdaca41ef5a89e"
     }
   ]
 }
