@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T07:24:06.388Z",
+  "updated": "2026-11-20T07:38:06.000Z",
   "files": [
     {
       "path": "config/fancymenu/assets/fondo.png",
@@ -222,9 +222,9 @@
       "sha1": "cf9125ed01ef2bb0b49c6e58f0d31a68630a3de3"
     },
     {
-      "path": "mods/SkinsRestorer-Mod-Fabric-15.12.5.jar",
-      "url": "https://raw.githubusercontent.com/panizprivate12-source/extremo-launcher1233/main/pack/mods/SkinsRestorer-Mod-Fabric-15.12.5.jar",
-      "sha1": "6a1e9a6f76e0a29d25476bf043cdaca41ef5a89e"
+      "path": "mods/skinrestorer-2.11.1+26.1-fabric.jar",
+      "url": "https://raw.githubusercontent.com/panizprivate12-source/extremo-launcher1233/main/pack/mods/skinrestorer-2.11.1%2B26.1-fabric.jar",
+      "sha1": "0b36ac58b0e41041b1204b1ea26f46a68608c2a2"
     },
     {
       "path": "mods/voicechat-fabric-2.6.22+26.2.jar",
